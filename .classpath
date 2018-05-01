@@ -15,5 +15,7 @@
 	<classpathentry kind="lib" path="/Users/mohammadhasan/workspace/project/jars/httpcore-4.4.6.jar"/>
 	<classpathentry kind="lib" path="/Users/mohammadhasan/workspace/project/jars/okhttp-3.9.1.jar"/>
 	<classpathentry kind="lib" path="/Users/mohammadhasan/workspace/project/jars/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mohammadhasan/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/mohammadhasan/Downloads/dom4j-2.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="My first framework project">
+    <classes>
+      <class name="tests.myfirsttest"/>
+      <class name="base.config"/>
+      <class name="tests.test2"/>
+      <class name="tests.test3">
+      <methods>
+      <exclude name="a"/>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
